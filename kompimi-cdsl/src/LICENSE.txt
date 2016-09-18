@@ -1,0 +1,37 @@
+KOMPIMI PUBLIC DOMAIN DEDICATION
+
+All content in this project, including source code, documentation, and
+resources, is granted into the public domain by its copyright owner or
+owners. Where this is not legally possible, for example in
+jurisdictions that do not provide a legal avenue for granting works
+into the public domain, the copyright owner releases all rights to the
+content and will make no attempt to restrict the use of the content in
+any manner whatsoever. Content may include links or references to
+other sites or documentation, and no statement about the license of
+any referenced external content is provided or implied.
+
+Without condition or restriction, any entity (commercial or
+noncommercial) may, in the words of the MIT/X11 License, "use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies" of
+any content in this project, and derived works may be released under
+any license (including all-rights-reserved) or be held entirely
+proprietary.
+
+There is NO requirement that:
+
+* Any content be attributed to its original author or authors;
+* The author's permission be obtained to use their content;
+* The author be compensated in any way for use of their content;
+* The author be informed of any use of their content;
+* Any derived works be made public or licensed under a free license;
+* Changes from the original version be indicated in derived works;
+* A link be provided to the original work;
+* License statements or any other portion of the content be retained.
+
+The copyright holders provide no legal disclaimer, relying instead on
+the community to display care in what code they use and to display
+courtesy in not holding the original authors accountable for any
+errors they commit, since their content was generously provided
+without cost.
+
+This license statement may be modified or removed.
